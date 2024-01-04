@@ -13,7 +13,7 @@ I am a Full Stack Web Developer with a passion for Web and Software development.
 - **Email**: [mpotulom28@gmail.com](mailto:mmpotulom28@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/mmpotulo)
 - **Instagram**: [Instagram Profile](https://instagram.com/dj_mnesh)
-- **WhastApp: ** [07965304053](https://wa.me/0796530453)
+- **WhastApp:** [07965304053](https://wa.me/0796530453)
 
 ## 📈 GitHub Statistics
 ```comming soon```
