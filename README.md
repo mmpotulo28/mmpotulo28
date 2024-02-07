@@ -1,12 +1,12 @@
 # Welcome! I'm Manelisi Mpotulo 👋
 
 ## 🎯 About Me
-I am a Full Stack Web Developer with a passion for Web and Software development. With a heavy emphasis on Devs-Ops and Front-End technologies, I have created an incredible project (web application) that employs the most basic programming languages to complete an intriguing yet challenging task. Additionally, I have contributed to a few repos and worked on projects with successful teams.
+I am a Full Stack Web Developer with a passion for Web and Software development. With a heavy emphasis on Java and Front-End technologies. I have created an incredible project (web application) that employs the most basic programming languages to complete an intriguing yet challenging task (more info below). Additionally, I have contributed to a few repos and worked on projects with successful teams, my Activity records speaks for its self.
 
 ## 💼 Professional Skills
 - **Web Design:** Figma
 - **Front-End Web Development**: HTML, CSS, JAVASCRIPT, REACT.JS, BOOTSTRAP.
-- **Back-End Web Development**: NODE.JS, SQL, PhpMyAdmin, ProgressSQL.
+- **Back-End Web Development**: NODE.JS, SQL, PhpMyAdmin, ProgressSQL, Express, RESTful API.
 - **Software Development**: C and JAVA.
 
 ## 📬 Get in Touch
@@ -16,7 +16,7 @@ I am a Full Stack Web Developer with a passion for Web and Software development.
 - **WhastApp:** [07965304053](https://wa.me/0796530453)
 
 ## 📈 GitHub Statistics
-```comming soon```
+```See Activity```
 
 ## 🏅 GitHub Profile Trophies
 ```comming soon```
@@ -27,3 +27,4 @@ I am a Full Stack Web Developer with a passion for Web and Software development.
 
 ## 💼 Projects
 - [DigitaliZim](https://digitalisim.pages.dev/)
+- [Student Updates](https://studentupdates.pages.dev/)
