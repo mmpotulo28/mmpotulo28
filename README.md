@@ -5,9 +5,10 @@ I am a Full Stack Web Developer with a passion for Web and Software development.
 
 ## 💼 Professional Skills
 - **Web Design:** Figma
-- **Front-End Web Development**: HTML, CSS, JAVASCRIPT, REACT.JS, BOOTSTRAP.
+- **Front-End Web Development**: HTML, CSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, NEXT.JS, CONTENTFUL, TYPESCRIPT.
 - **Back-End Web Development**: NODE.JS, SQL, PhpMyAdmin, ProgressSQL, Express, RESTful API.
 - **Software Development**: C and JAVA.
+- **Deployment/Hosting**: Azure DevOps, Vercel, Firebase, AWS, Azure Portal.
 
 ## 📬 Get in Touch
 - **Email**: [mpotulom28@gmail.com](mailto:mmpotulom28@gmail.com)
@@ -16,7 +17,8 @@ I am a Full Stack Web Developer with a passion for Web and Software development.
 - **WhastApp:** [07965304053](https://wa.me/0796530453)
 
 ## 📈 GitHub Statistics
-```See Activity```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmpotulo28&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mmpotulo28)](https://git.io/streak-stats)
 
 ## 🏅 GitHub Profile Trophies
 ```comming soon```
